@@ -1,6 +1,6 @@
 # feed-reader-testing
 
-Feed reader testing is a mandatory project of Udacity Front-End Web Developer Nanodegree Program using Jasmine framewor.
+Feed reader testing is using Jasmine framewor.
 
 # Table of Contents
 
@@ -65,9 +65,6 @@ Here are some ways you can contribute:
 - by writing specifications
 - by writing code ( fix or add js files, add comments, modifying styles)
 
-## Acknowledgment
-
-- Udacity community & mentors
 
 #### THANK YOU ...
 
